@@ -1,4 +1,4 @@
-#power-bi-blinkit-dashboard
+# power-bi-blinkit-dashboard
 ## Project Overview
 An interactive Power BI dashboard built using the Blinkit grocery dataset that includes data from Kaggle (8,523 records across 12 variables).
 This dashboard helps understand sales distribution and identify high-performing categories and outlets.
@@ -11,7 +11,7 @@ This dashboard helps understand sales distribution and identify high-performing 
 * Power Query (Data Cleaning, Transformation, and Type Casting)
 
 ## Data Source
-* Kaggle Blinkit Grocery Data Dataset
+* Kaggle Blinkit Grocery Data Dataset : It consists of 8,523 rows and 12 columns
 
 ## Data Cleaning and Transformations
 Performed the following preprocessing steps using Power Query:
